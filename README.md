@@ -2,6 +2,10 @@
 
 This is a **Python** implementation of the **8-puzzle** problem solver using the A* search algorithm. The program allows users to input an initial and goal state, select a heuristic function, and find the optimal solution.
 
+## Group Members 
+- Parth Patel
+- Sai Priyanka Taduri
+
 ## Features
 
 - Implements A* Search Algorithm to solve the 8-puzzle problem.
